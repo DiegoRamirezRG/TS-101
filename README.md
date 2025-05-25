@@ -25,5 +25,4 @@ TS-"<tu_nombre>"-101
 
 Si tu nombre es Diego:
 
-```bash
 git checkout -b TS-Diego-101
